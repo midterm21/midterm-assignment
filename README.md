@@ -30,4 +30,5 @@ https://github.com/midterm21/midterm-assignment/blob/main/week_6.ipynb
 
 Week_7
 
-https://github.com/midterm21/midterm-assignment/blob/main/week_7-1.ipynb
+https://github.com/midterm21/midterm-assignment/blob/main/week_7.ipynb
+
